@@ -23,7 +23,3 @@ Projeto em Python que resolve uma sequência de níveis sobre **funções de has
 | `level3Resolucao/` | PKCS#12 supervisor / serial |
 | `level4Resolucao/` | RSA textbook |
 | `level5Resolucao/` | PDFs, seriais, SHAKE |
-
-```
-
-Se o repositório ainda não existir no GitHub, crie-o vazio e faça o primeiro `push` incluindo este ficheiro.
