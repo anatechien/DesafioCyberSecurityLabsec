@@ -24,17 +24,6 @@ Projeto em Python que resolve uma sequência de níveis sobre **funções de has
 | `level4Resolucao/` | RSA textbook |
 | `level5Resolucao/` | PDFs, seriais, SHAKE |
 
-## Como o GitHub mostra o README
-
-Coloque **`README.md` na raiz do repositório** (mesmo nível da pasta `.git`). O GitHub renderiza esse ficheiro automaticamente na página inicial do repo.
-
-Para enviar depois de criar/editar:
-
-```powershell
-cd "c:\Users\Ana Teichmann\Downloads\Faculdade\Segundo Semestre 2026.1\desafio1Labsec"
-git add README.md
-git commit -m "Adiciona README do desafio LabSec"
-git push
 ```
 
 Se o repositório ainda não existir no GitHub, crie-o vazio e faça o primeiro `push` incluindo este ficheiro.
